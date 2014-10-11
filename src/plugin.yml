@@ -1,0 +1,25 @@
+name: RedstonePvP
+main: dev.LollipopNinga.RedstonePvP.RedstonePvP
+version: 1.0
+
+commands:
+   feature:
+      description: Prints all worlds.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission> an
+   features:
+      description: Prints all worlds.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission> an
+   settradesign:
+      description: Prints all worlds.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
+   setdropbeacon:
+      description: Prints all worlds.
+      usage: /<command>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission> an
